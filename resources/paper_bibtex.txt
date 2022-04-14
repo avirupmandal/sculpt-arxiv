@@ -1,17 +1,15 @@
-@misc{https://doi.org/10.48550/arxiv.2112.04362,
-  doi = {10.48550/ARXIV.2112.04362},
-  
-  url = {https://arxiv.org/abs/2112.04362},
-  
-  author = {Mandal, Avirup and Chaudhuri, Parag and Chaudhuri, Subhasis},
-  
-  keywords = {Graphics (cs.GR), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy},
-  
-  publisher = {arXiv},
-  
-  year = {2021},
-  
-  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
+@article{DBLP:journals/corr/abs-2112-04362,
+  author    = {Avirup Mandal and
+               Parag Chaudhuri and
+               Subhasis Chaudhuri},
+  title     = {Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy},
+  journal   = {CoRR},
+  volume    = {abs/2112.04362},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2112.04362},
+  eprinttype = {arXiv},
+  eprint    = {2112.04362},
+  timestamp = {Mon, 13 Dec 2021 17:51:48 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2112-04362.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
