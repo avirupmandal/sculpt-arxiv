@@ -1,1 +1,1 @@
-## <b>Virtual Sculpting I3D 2022</b>
+## <b>Virtual Sculpting Arxiv 2022</b>
