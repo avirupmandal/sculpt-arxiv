@@ -1,12 +1,17 @@
-@inproceedings{mandal2022virtualsculpt,
-  title={Interactive Physics-Based Virtual Sculpting with Haptic Feedback},
-  author={Mandal, Avirup and Chaudhuri, Parag and Chaudhuri, Subhasis},
-  volume = {5},
-  number = {1},
-  article = {5773229},
-  month = may,
-  booktitle={Proceedings of the ACM on Computer Graphics and Interactive Techniques},
-  series = {I3D 2022},
-  year={2022},
-  doi = {10.1145/3522611},
+@misc{https://doi.org/10.48550/arxiv.2112.04362,
+  doi = {10.48550/ARXIV.2112.04362},
+  
+  url = {https://arxiv.org/abs/2112.04362},
+  
+  author = {Mandal, Avirup and Chaudhuri, Parag and Chaudhuri, Subhasis},
+  
+  keywords = {Graphics (cs.GR), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy},
+  
+  publisher = {arXiv},
+  
+  year = {2021},
+  
+  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
 }
