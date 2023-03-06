@@ -1,15 +1,12 @@
-@article{DBLP:journals/corr/abs-2112-04362,
-  author    = {Avirup Mandal and
-               Parag Chaudhuri and
-               Subhasis Chaudhuri},
-  title     = {Physics-based Mesh Deformation with Haptic Feedback and Material Anisotropy},
-  journal   = {CoRR},
-  volume    = {abs/2112.04362},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2112.04362},
-  eprinttype = {arXiv},
-  eprint    = {2112.04362},
-  timestamp = {Mon, 13 Dec 2021 17:51:48 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2112-04362.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@conference{grapp23,
+author={Avirup Mandal. and Parag Chaudhuri. and Subhasis Chaudhuri.},
+title={Real-Time Physics-Based Mesh Deformation with Haptic Feedback and Material Anisotropy},
+booktitle={Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - GRAPP,},
+year={2023},
+pages={153-161},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0011611800003417},
+isbn={978-989-758-634-7},
+issn={2184-4321},
 }
